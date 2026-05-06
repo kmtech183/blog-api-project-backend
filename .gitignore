@@ -27,10 +27,7 @@ build/
 
 # VS Code (optional)
 .vscode/
-/generated/prisma
-
-/generated/prisma
 
 
-/author-dashboard/.env
-/author-dashboard/node_modules/
+#/author-dashboard/.env
+#/author-dashboard/node_modules/
