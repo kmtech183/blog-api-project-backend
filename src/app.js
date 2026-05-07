@@ -25,9 +25,9 @@ app.use(
       process.env.FRONTEND_URL,
       process.env.BLOG_ADMIN_URL,
       "https://blog-api-project-frontend2-auth.vercel.app/login",
-      "https://blog-api-project-frontend2-auth.vercel.app/",
-      "https://blog-api-project-frontend1-blog.vercel.app/",
-      "https://blog-api-project-frontend1-blogkm.vercel.app/",
+      "https://blog-api-project-frontend2-auth.vercel.app",
+      "https://blog-api-project-frontend1-blog.vercel.app",
+      "https://blog-api-project-frontend1-blogkm.vercel.app",
     ], // Dashboard and public blog
     credentials: true,
   }),
